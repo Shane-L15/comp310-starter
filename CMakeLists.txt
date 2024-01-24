@@ -30,6 +30,7 @@ add_subdirectory(MyWarmUp_2)
 add_subdirectory(MyWarmUp_3)
 add_subdirectory(MyWarmUp_4)
 add_subdirectory(MyWarmUp_5)
+add_subdirectory(MyWarmUp_6)
 add_subdirectory(MyWarmUp_10)
 
 # You can use add_subdirectory() to add your own work. 
